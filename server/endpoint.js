@@ -56,6 +56,7 @@ async function run(schema, code, uri, params){
         }
         connect();
         `
+        console.log(code2)
         vm.createContext(context_2); // Contextify the object.
 
         await vm.runInContext(code2, context_2);

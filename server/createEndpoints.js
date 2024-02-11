@@ -34,11 +34,11 @@ const extractionFunctionSchema = {
             properties :{
                 name: {
                     type:"string",
-                    description:"name of the parameter"
+                    description:"Name of the parameter. Must match exactly the name of the parameter in the code."
                 },
                 type:{
                     type:"string",
-                    description:"type of the parameter"
+                    description:"The type of the parameter. Can be string, number, boolean, or array."
                 }
             }
          },

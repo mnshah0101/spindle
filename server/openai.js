@@ -68,8 +68,11 @@ router.post('/generateAPI', async (req, res) => {
     }
 
     let endpoint_ideas = await getAPIIdeas(schema, query);
+    console.log("ideas length: " + endpoint_ideas.length)
     let endpoints = await createEndPoints(endpoint_ideas, schema);
+    console.log("endpoints length: " + endpoints.length)
     let doc_endpoints = await createDocumentation(endpoints);
+    console.log("doc_endpoints length: " + doc_endpoints.length)
 
     await mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true });
 

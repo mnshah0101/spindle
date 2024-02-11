@@ -21,7 +21,7 @@ const extractionFunctionSchema = {
     properties: {
         name: {
             type: "string",
-            description: "Name of the endpoint such as Get Weather."
+            description: "Title of the endpoint such as Get Weather."
         },
         api_description: {
             type: "string",
@@ -46,15 +46,15 @@ const extractionFunctionSchema = {
             properties :{
                 name: {
                     type:"string",
-                    description:"Name of the parameter, such as location"
+                    description:"Name of the parameter."
                 },
                 type:{
                     type:"string",
-                    description:"Javascript of the parameter, such as string"
+                    description:"The type of the parameter. Can be string, number, boolean, or array."
                 }, 
                 description: {
                     type:"string",
-                    description:"this shortly describes the use case of the parameter for this function."
+                    description:"This shortly describes the use case of the parameter for this function."
                 }
             }
          }

@@ -65,6 +65,9 @@ router.use('/', async (req, res) => {
         if (params_needed[i]['type'].toLowerCase() === 'number') {
             params[params_needed[i]['name']] = Number(params[params_needed[i]['name']]);
         }
+         if (params_needed[i]['type'].toLowerCase() === 'boolean') {
+            params[params_needed[i]['name']] = Boolean(params[params_needed[i]['name']]);
+        }
     }
 
 
