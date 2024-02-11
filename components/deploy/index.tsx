@@ -9,7 +9,7 @@ const Index = () => {
         <>
             <Header />
             <main>
-                <Breadcrumb top_title="Official Documentation" title="Docs" />
+                <Breadcrumb top_title="Deploy Your API" title="Deploy" />
                 <Deploy  />
             </main>
             <FooterOne />

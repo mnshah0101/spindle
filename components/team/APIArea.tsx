@@ -29,7 +29,7 @@ const APIArea = () => {
     });
 
     async function getApis(name: string) {
-        let my_apis = await fetch(`http://localhost:3001/api/${name}`, {
+        let my_apis = await fetch(`http://localhost:3001/spindle/${name}`, {
             method: 'GET'
         
         });

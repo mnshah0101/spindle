@@ -35,7 +35,7 @@ const DocsArea = (props: { id: any; }) => {
 
     async function fetchData() {
     
-        let response =await fetch(`http://localhost:3001/api/docs/${id}`,
+        let response =await fetch(`http://localhost:3001/spindle/docs/${id}`,
          {
             method: 'GET'
         })
