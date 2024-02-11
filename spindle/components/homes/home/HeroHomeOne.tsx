@@ -29,7 +29,7 @@ const HeroHomeOne = () => {
                                             {title}
                                         </h2>
                                         <div className="slider-btn wow fadeInUp animated" data-wow-delay="0.9s">
-                                            <a href="#" className="btn">Get Started</a>
+                                            <a href="/login" className="btn">Get Started</a>
                                         </div>
                                     </div>
                                 </div>
