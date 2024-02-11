@@ -63,6 +63,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+Spindle is a developer automation tool which parses your Mongoose schema to create meaningful external facing APIs for your business. Spindle completely hosts your APIs through clever database design and virtual machines. This tool is perfect for businesses with large amounts of data it wishes to expose to users without wasting resources to create low level APIs.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -70,6 +72,7 @@
 - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![Langchain][Langchain.com]][Langchain-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,12 +80,9 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This project runs NextJS 13 for the frontend and ExpressJS with NodeJS on the backend.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 
 - npm
   ```sh
@@ -93,16 +93,35 @@ This is an example of how to list things you need to use the software and how to
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
+
    ```sh
    git clone https://github.com/mnshah0101/spindle.git
    ```
-3. Install NPM packages
+
+3. Cd to spindle
+
+```sh
+ cd spindle
+```
+
+4. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+5. Cd to server
+
+```sh
+ cd..
+ cd server
+```
+
+6. Install NPM packages
+   ```sh
+   npm install
+   ```
+7. Enter your API in `.env`
    ```js
-   const API_KEY = "ENTER YOUR API";
+   API_KEY = MY_KEY;
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -111,11 +130,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 Spindle is perfect for businesses looking to create an API for their database, without the hassle and repitition of manually defining endpoints. Simply input a natural language query for what functionalities you'd like your API to have, as well as your database's URI, and your API is ready to ship.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +140,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] API Hosting
 - [ ] Support for additional databases
-  - [ ] Both SQL and NoSQL
+- [ ] Both SQL and NoSQL
 
 See the [open issues](https://github.com/mnshah0101/spindle/issues) for a full list of proposed features (and known issues).
 
