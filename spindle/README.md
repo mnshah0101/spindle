@@ -13,8 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jacksonbelanger/spindle">
-    <img src="/public/assets/logos/LogosAndWords2" alt="Logo" width="200" height="200">
+  <a href="https://github.com/mnshah0101/spindle">
+    <img src="/public/assets/logos/LogosAndWords2.png" alt="Logo" width="200" height="200">
   </a>
 
 <h2 align="center">Spindle</h2>
@@ -22,14 +22,14 @@
   <p align="center">
     Automatic API generation and hosting for your database.
     <br />
-    <!-- <a href="https://github.com/jacksonbelanger/spindle"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/mnshah0101/spindle"><strong>Explore the docs »</strong></a>
     <br />
     <br /> -->
-    <a href="https://github.com/jacksonbelanger/spindle">View Demo</a>
+    <a href="https://github.com/mnshah0101/spindle">View Demo</a>
     ·
-    <a href="https://github.com/jacksonbelanger/spindle/issues">Report Bug</a>
+    <a href="https://github.com/mnshah0101/spindle/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jacksonbelanger/spindle/issues">Request Feature</a>
+    <a href="https://github.com/mnshah0101/spindle/issues">Request Feature</a>
   </p>
 </div>
 
@@ -96,7 +96,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/jacksonbelanger/spindle.git
+   git clone https://github.com/mnshah0101/spindle.git
    ```
 3. Install NPM packages
    ```sh
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Support for additional databases
   - [ ] Both SQL and NoSQL
 
-See the [open issues](https://github.com/jacksonbelanger/spindle/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/mnshah0101/spindle/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Contact us at team@spindle.com
 
-Project Link: [https://github.com/jacksonbelanger/spindle](https://github.com/jacksonbelanger/spindle)
+Project Link: [https://github.com/mnshah0101/spindle](https://github.com/mnshah0101/spindle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,16 +180,16 @@ Project Link: [https://github.com/jacksonbelanger/spindle](https://github.com/ja
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/jacksonbelanger/spindle.svg?style=for-the-badge
-[contributors-url]: https://github.com/jacksonbelanger/spindle/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jacksonbelanger/spindle.svg?style=for-the-badge
-[forks-url]: https://github.com/jacksonbelanger/spindle/network/members
-[stars-shield]: https://img.shields.io/github/stars/jacksonbelanger/spindle.svg?style=for-the-badge
-[stars-url]: https://github.com/jacksonbelanger/spindle/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jacksonbelanger/spindle.svg?style=for-the-badge
-[issues-url]: https://github.com/jacksonbelanger/spindle/issues
-[license-shield]: https://img.shields.io/github/license/jacksonbelanger/spindle.svg?style=for-the-badge
-[license-url]: https://github.com/jacksonbelanger/spindle/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mnshah0101/spindle.svg?style=for-the-badge
+[contributors-url]: https://github.com/mnshah0101/spindle/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mnshah0101/spindle.svg?style=for-the-badge
+[forks-url]: https://github.com/mnshah0101/spindle/network/members
+[stars-shield]: https://img.shields.io/github/stars/mnshah0101/spindle.svg?style=for-the-badge
+[stars-url]: https://github.com/mnshah0101/spindle/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mnshah0101/spindle.svg?style=for-the-badge
+[issues-url]: https://github.com/mnshah0101/spindle/issues
+[license-shield]: https://img.shields.io/github/license/mnshah0101/spindle.svg?style=for-the-badge
+[license-url]: https://github.com/mnshah0101/spindle/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: /public/assets/img/screenshot.png
@@ -199,5 +199,7 @@ Project Link: [https://github.com/jacksonbelanger/spindle](https://github.com/ja
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[Langchain]: https://img.shields.io/badge/Langchain-8A2BE2
+[Langchain-url]: https://langchain.com
 
 # spindle

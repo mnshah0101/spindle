@@ -1,6 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+spindle/node_modules
+spindle/.next
+/spindle/.next
+
+server/node_modules
+/.next
 /node_modules
 /.pnp
 .pnp.js
