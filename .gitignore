@@ -5,6 +5,10 @@ spindle/node_modules
 spindle/.next
 /spindle/.next
 
+.env
+/spindle/.env
+/server/.env
+
 server/node_modules
 /.next
 /node_modules
