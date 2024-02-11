@@ -101,7 +101,7 @@ This project runs NextJS 13 for the frontend and ExpressJS with NodeJS on the ba
 3. Cd to spindle
 
 ```sh
- cd spindle
+cd spindle
 ```
 
 4. Install NPM packages
@@ -110,10 +110,10 @@ This project runs NextJS 13 for the frontend and ExpressJS with NodeJS on the ba
    ```
 5. Cd to server
 
-```sh
- cd..
- cd server
-```
+   ```sh
+   cd..
+   cd server
+   ```
 
 6. Install NPM packages
    ```sh
@@ -212,7 +212,7 @@ Project Link: [https://github.com/mnshah0101/spindle](https://github.com/mnshah0
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[Langchain]: https://img.shields.io/badge/Langchain-8A2BE2
+[Langchain.com]: https://img.shields.io/badge/Langchain-8A2BE2
 [Langchain-url]: https://langchain.com
 
 # spindle
