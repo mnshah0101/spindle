@@ -100,9 +100,9 @@ This project runs NextJS 13 for the frontend and ExpressJS with NodeJS on the ba
 
 3. Cd to spindle
 
-```sh
-cd spindle
-```
+  ```sh
+  cd spindle
+  ```
 
 4. Install NPM packages
    ```sh
