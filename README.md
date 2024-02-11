@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jacksonbelanger/spindle">
-    <img src="logo.jpeg" alt="Logo" width="200" height="200">
+    <img src="/public/assets/logos/LogosAndWords2" alt="Logo" width="200" height="200">
   </a>
 
 <h2 align="center">Spindle</h2>
@@ -199,4 +199,5 @@ Project Link: [https://github.com/jacksonbelanger/spindle](https://github.com/ja
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+
 # spindle
